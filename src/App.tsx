@@ -11,9 +11,7 @@ import Timeline from './components/Timeline';
 import Reasons from './components/Reasons';
 import Gallery from './components/Gallery';
 import BirthdayLetter from './components/BirthdayLetter';
-import FavoriteMoments from './components/FavoriteMoments';
 import BirthdayWishes from './components/BirthdayWishes';
-import SurpriseGift from './components/SurpriseGift';
 import InteractiveSky from './components/InteractiveSky';
 import MusicPlayer from './components/MusicPlayer';
 import Countdown from './components/Countdown';
@@ -23,7 +21,6 @@ import Footer from './components/Footer';
 import BirthdayCake from './components/BirthdayCake';
 import MemoryJar from './components/MemoryJar';
 import WishBalloon from './components/WishBalloon';
-import VoiceMessage from './components/VoiceMessage';
 import MemoryScrapbook from './components/MemoryScrapbook';
 import FinalGoodbye from './components/FinalGoodbye';
 
